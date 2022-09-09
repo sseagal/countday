@@ -1,0 +1,10 @@
+C:\Users\Valerii\source\repos\CountDay\bin\Debug\CountDay.exe.config
+C:\Users\Valerii\source\repos\CountDay\bin\Debug\CountDay.exe
+C:\Users\Valerii\source\repos\CountDay\bin\Debug\CountDay.pdb
+C:\Users\Valerii\source\repos\CountDay\obj\Debug\CountDay.csproj.AssemblyReference.cache
+C:\Users\Valerii\source\repos\CountDay\obj\Debug\CountDay.Form1.resources
+C:\Users\Valerii\source\repos\CountDay\obj\Debug\CountDay.Properties.Resources.resources
+C:\Users\Valerii\source\repos\CountDay\obj\Debug\CountDay.csproj.GenerateResource.cache
+C:\Users\Valerii\source\repos\CountDay\obj\Debug\CountDay.csproj.CoreCompileInputs.cache
+C:\Users\Valerii\source\repos\CountDay\obj\Debug\CountDay.exe
+C:\Users\Valerii\source\repos\CountDay\obj\Debug\CountDay.pdb
